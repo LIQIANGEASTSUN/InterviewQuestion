@@ -3,3 +3,9 @@
 
 
 https://blog.csdn.net/QF887777/article/details/132629037
+
+
+Unity合批失败的原因整理
+https://zhuanlan.zhihu.com/p/592644008
+https://zhuanlan.zhihu.com/p/108259045
+https://zhuanlan.zhihu.com/p/628103628
